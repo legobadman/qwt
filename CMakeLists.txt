@@ -257,8 +257,6 @@ add_library(qwt OBJECT
     src/qwt_widget_overlay.cpp
     src/qwt_widget_overlay.h
     src/moc_files.h
-    src/qwl_checkbox.cpp
-    src/qwl_checkbox.h
     src/src.pri
     src/src.pro
 )
